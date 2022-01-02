@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @guneet-01
+- 👋 Hi, I’m @guneet
 - 👀 I’m interested in technology and programming
 - 🌱 I’m currently learning python
 - 📫 How to reach me bhatia.guneet23@gmail.com
